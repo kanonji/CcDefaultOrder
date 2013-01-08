@@ -1,3 +1,3 @@
-# Cc Default Order
+# Default Order Plugin for CandyCane
 
-Set default order on the issues view. `sort:Priority.position/direction:desc` is hardcoded for default order currently.
+Set default order on the issues view. Your CandyCane users can choose column and `DSSC/ASC` on `my/account` page.

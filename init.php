@@ -1,6 +1,6 @@
 <?php
 $pluginContainer = ClassRegistry::getObject('PluginContainer');
-$pluginContainer->installed('cc_default_order','0.1');
+$pluginContainer->installed('cc_default_order','0.2');
 
 App::uses('CakeEventManager', 'Event');
 
